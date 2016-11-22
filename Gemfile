@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'materialize-sass'
+
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'react-rails', '~> 1.0'
 
